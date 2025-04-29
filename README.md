@@ -14,6 +14,8 @@
   - [Active Directory: Deployment and Configuration](https://github.com/cristopherb19/ad-deploy-and-config)
   - [Active Directory: Generating Users](https://github.com/cristopherb19/ad-user-generation)
   - [Active Directory: Practical Scenarios](https://github.com/cristopherb19/ad-practical-scenarios)
+  - [DNS Management and Practicies](https://github.com/cristopherb19/dns-lab)
+  - [Network Shares and File Permissions](https://github.com/cristopherb19/network-file-share)
     
 <h2>🤳Connect with me:</h2>
 
