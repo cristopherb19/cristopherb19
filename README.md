@@ -9,7 +9,11 @@
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/cristopherb19/azure-network-protocols)
   - [VPN Setup and Usage](https://github.com/cristopherb19/vpn-setup)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/cristopherb19/configure-ad)
+- <b>Active Directory</b>
+  - [Active Directory: Setup with Azure Virtual Machines](https://github.com/cristopherb19/active-directory-setup)
+  - [Active Directory: Deployment and Configuration](https://github.com/cristopherb19/ad-deploy-and-config)
+  - [Active Directory: Generating Users](https://github.com/cristopherb19/ad-user-generation)
+  - [Active Directory: Practical Scenarios](https://github.com/cristopherb19/ad-practical-scenarios)
     
 <h2>🤳Connect with me:</h2>
 
