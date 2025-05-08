@@ -18,4 +18,4 @@
   - [Network Shares and File Permissions](https://github.com/cristopherb19/network-file-share)
     
 <h2>🤳Connect with me:</h2>
-ig, twitter, linked in 
+ig, twitter, linkedin 
