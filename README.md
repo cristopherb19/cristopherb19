@@ -18,4 +18,4 @@
   - [Network Shares and File Permissions](https://github.com/cristopherb19/network-file-share)
     
 <h2>🤳Connect with me:</h2>
-ig, twitter, linkedin 
+[linkedin]: https://www.linkedin.com/in/cristopher-bonilla-reyes
