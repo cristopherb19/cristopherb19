@@ -18,4 +18,7 @@
   - [Network Shares and File Permissions](https://github.com/cristopherb19/network-file-share)
     
 <h2>🤳Connect with me:</h2>
+
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 [linkedin]: https://www.linkedin.com/in/cristopher-bonilla-reyes
